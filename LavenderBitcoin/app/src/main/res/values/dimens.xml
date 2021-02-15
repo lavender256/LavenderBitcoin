@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="marginCardView">3dp</dimen>
+    <dimen name="paddingCardview">9dp</dimen>
+    <dimen name="marginLinear">7dp</dimen>
+    <dimen name="paddingLinear">16dp</dimen>
+    <dimen name="padding5dp">5dp</dimen>
+    <dimen name="padding15dp">15dp</dimen>
+
+</resources>

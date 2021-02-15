@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#4a4a4a</color>
+<color name="colorPrimaryDark">#000</color>
+<color name="colorAccent">#FF004c</color>
+<color name="gray">#4a4a4a</color>
+<color name="black">#000000</color>
+<color name="niceRed">#f52887</color>
+<color name="TitleRed">#d9004f</color>
+<color name="red">#FF4081</color>
+<color name="blue">#11A5FA</color>
+<color name="white">#FFF</color>
+<color name="tCwhite">#FFF</color>
+<color name="CardviewDetails">#303030</color>
+<color name="Transparent">@android:color/transparent</color>
+</resources>

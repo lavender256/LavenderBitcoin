@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lavender BTC</string>
+    <string name="msupply">بیش ترین تخمین از مقدار ارز تا پایان عمر آن</string>
+    <string name="cSupply"> سرمایه در گردش</string>
+    <string name="volume24">مقدار ارز دیجیتالی  معامله شده در یک 24 ساعت</string>
+    <string name="market_cap_usd">ارزش بازار</string>
+    <string name="percent_change24">تغییرات قیمت در 24 ساعت گذشته</string>
+    <string name="percent_change7">تغییرات قیمت در 7 روز گذشته</string>
+    <string name="price_btc"> قیمت براساس  Bitcoin</string>
+    <string name="tsupply">مجموع کوین های موجود ازیک ارز منهای کوین های سوزانده شده</string>
+    <string name="symbol">نام اختصاری </string>
+    <string name="price">قیمت </string>
+    <string name="close">close</string>
+
+</resources>
